@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_payment_rent"
+        android:title="@string/add_payment_rent"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_payment_electric"
+        android:title="@string/add_payment_electric"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_payment_water"
+        android:title="@string/add_payment_water"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_payment_gas"
+        android:title="@string/add_payment_gas"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_payment_internet"
+        android:title="@string/add_payment_internet"
+        app:showAsAction="never"/>
+</menu>
