@@ -27,6 +27,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 /**
  * Created by David on 6/28/2016.
+ * references from https://github.com/firebase/AndroidChat
  */
 public class ChatActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener
